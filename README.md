@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 # FSAM for Pretrained Language Model
-
-*This is the official repo for the paper “Improving Sharpness-Aware Minimization with Fisher Mask for Better Generalization on Language Models”, accepted to Findings of EMNLP2022.*
-***
-=======
-# FSAM for PLMs
 
 This is the official implementation of our EMNLP 2022 (findings) paper, "[Improving Sharpness-Aware Minimization with Fisher Mask for Better Generalization on Language Models](https://aclanthology.org/2022.findings-emnlp.300.pdf)" (in Pytorch).
 
