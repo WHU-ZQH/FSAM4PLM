@@ -23,7 +23,7 @@ pip install --editable ./
 
 ## Getting Started
 
-We integrate our FSAM-based optimizers in the fairseq script and provide the full code in "[fairseq-FSAM](https://github.com/WHU-ZQH/FSAM4PLM/tree/master/fairseq-FSAM)". The detailed implementation of FSAM can be found in "[./fairseq-FSAM/optim/samsgd](https://github.com/WHU-ZQH/FSAM4PLM/tree/master/fairseq-FSAM/optim/samsgd.py)".
+We integrate our FSAM-based optimizers in the fairseq script and provide the full code in "[fairseq-FSAM](https://github.com/WHU-ZQH/FSAM4PLM/tree/master/fairseq-FSAM)". The detailed implementation of FSAM can be found in "[./fairseq-FSAM/optim/samsgd.py](https://github.com/WHU-ZQH/FSAM4PLM/tree/master/fairseq-FSAM/optim/samsgd.py)".
 
 Here, we introduce how to use our FSAM optimizer in details. First, you should prepare the training environment by the following commands:
 
