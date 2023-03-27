@@ -104,7 +104,3 @@ If you find this work helpful, please consider citing as follows:
   year={2022}
 }
 ```
-
->>>>>>> ab7a7c2 (update FSAM implementation)
-
-
