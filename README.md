@@ -23,7 +23,7 @@ pip install --editable ./
 
 ## Getting Started
 
-We integrate our FSAM-based optimizers in the fairseq script and provide the full code in "[fairseq-FSAM](https://github.com/WHU-ZQH/FSAM4PLM/fairseq-FSAM)". The detailed implementation of FSAM can be found in "[./fairseq-FSAM/optim/samsgd](https://github.com/WHU-ZQH/FSAM4PLM/fairseq-FSAM/optim/samsgd)".
+We integrate our FSAM-based optimizers in the fairseq script and provide the full code in "[fairseq-FSAM](https://github.com/WHU-ZQH/FSAM4PLM/tree/master/fairseq-FSAM)". The detailed implementation of FSAM can be found in "[./fairseq-FSAM/optim/samsgd](https://github.com/WHU-ZQH/FSAM4PLM/tree/master/fairseq-FSAM/optim/samsgd)".
 
 Here, we introduce how to use our FSAM optimizer in details. First, you should prepare the training environment by the following commands:
 
@@ -82,7 +82,7 @@ CUDA_VISIBLE_DEVICES=$2  fairseq-train CoLA-bin/ \
 
 ```
 
-More fine-tuning exmaples are provided in "[./scrips](https://github.com/WHU-ZQH/FSAM4PLM/scripts)".
+More fine-tuning exmaples are provided in "[./scrips](https://github.com/WHU-ZQH/FSAM4PLM/tree/master/scripts)".
 
 ### Training options
 There are several training options related to FSAM-based optimiers, as follows:
